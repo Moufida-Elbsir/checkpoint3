@@ -1,0 +1,143 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200&display=swap');
+
+div{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.logo {
+    height: 68px;
+    width: 300px
+}
+.nav-bar {
+
+    display:flex;
+    justify-content: space-between;
+}
+.nav-bar ul li
+{
+    list-style: none;
+    display: inline;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 30px;
+    color: #6f8885;
+    
+}
+.home {
+    color: rgb(0, 179, 155);
+}
+a{
+    text-decoration: none;
+    color: #6f8885;
+}
+.Departments:hover {
+    color: rgb(0, 179, 155);
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+}
+#presentation-section h1 {
+    font-family: Work Sans, Arial, sans-serif;
+    font-size: 34px;
+    font-weight: 300;
+    line-height: 44.2;
+    color: rgb(0, 179, 155);
+    display: flex;
+    justify-content: center;
+}
+ .docplanner-logo {
+   
+    margin-left: 50%;
+}
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#presentation-section p {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    word-spacing: 0px;
+    color:rgb(116,116,116);
+    height: 112px;
+    width: 477.5px;
+    border: none;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+#home {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    }
+
+#for-patients {
+    background-color: #00CCB1;
+    width: 311,625px ;
+    height: 345px;
+    padding: 32px 32px 0 32px;
+ 
+}
+#for-patients h1 {
+    font-family: Work Sans, Arial, sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 33.8px;
+    color: rgb(255,255,255);
+}
+#for-patients h2 {
+    font-family: Work Sans, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.8px;
+    color: rgb(255,255,255);
+}
+#for-doctors {
+    background-color: #3D83DF;
+    width: 311,625px ;
+    height: 345px;
+    padding: 32px 32px 0 32px;
+    border-radius: 15px hidden;
+}
+#for-doctors h1 {
+    font-family: Work Sans, Arial, sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 33.8px;
+    color: rgb(255,255,255);
+}
+#for-doctors h2 {
+    font-family: Work Sans, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.8px;
+    color: rgb(255,255,255);
+}
+#for-clinics {
+    background-color: #1b2734;
+    width: 311,625px ;
+    height: 345px;
+    padding: 32px 32px 0 32px;
+ 
+}
+#for-clinics h1 {
+    font-family: Work Sans, Arial, sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 33.8px;
+    color: rgb(255,255,255);
+}
+#for-clinics h2 {
+    font-family: Work Sans, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.8px;
+    color: rgb(255,255,255);
+}
